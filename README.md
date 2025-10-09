@@ -124,16 +124,18 @@ Pour épeler un texte, **MAEL Scan** contient une structure de données contenan
  | ç | c cédille |
 
 Cette base de données est très spécifique à chaque langue.
-Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type dictionnaire qui prend la forme d'un immense immeuble :building_construction: des petits blocs difficile à afficher (et donc à gérer).
-Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP.
+Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type `dictionnaire` qui prend la forme d'un **immense immeuble :building_construction: de petits blocs** difficile à afficher (et donc à gérer).  
+Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
 
-1- **Implémentation d'une base de données SQLite**
-Il faudrait donc utiliser une base de données SQLite dont chaque table contiendrait les correspondances Lettre / Ce qui sera prononcé.
+1- **Implémentation d'une base de données SQLite <img src="https://cdn.simpleicons.org/sqlite/FFFF" width="24" height="24" style="vertical-align: middle;" />**
 
-2- **Gestion des écritures idéogrammiques**
-Comment gérer l'épélation des langages comme le chinois, le japonais ou le koréen ?
+Il faudrait donc utiliser une base de données **SQLite** dont chaque table contiendrait les correspondances `Lettre | Ce qui sera prononcé`.
 
-Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le (la) bienvenu(e) !
+2- **Gestion des écritures idéogrammiques** :ideograph_advantage:
+
+Comment gérer l'épélation des langages comme le chinois :cn:, le japonais :jp: ou le koréen :kr: ?
+
+Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le (la) bienvenu(e) ! :open_hands:
 
 ### :+1: Proposez votre aider pour developper une de ces fonctions
 
@@ -161,7 +163,7 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 
 ## G- Installation :arrow_heading_down:
 
-Seule la version Android n'est encore disponible pour le moment.
+Seule la version Android (MIT App Inventor) n'est encore disponible pour le moment.
 Pour essayer **MAEL Scan** :
 
 [Téléchargez le fichier MAEL_Scan_V5_0.apk](./binary_exec/MAEL_Scan_V5_0.apk)
