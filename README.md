@@ -9,7 +9,7 @@ Copyright (c) 2025 Yonnel Bécognée
 
 ![Kotlin](https://img.shields.io/badge/Kotlin%20MP-purple?logo=kotlin&logoColor=pink)
 
-![Python](https://img.shields.io/badge/Kotlin-2.2.20%2B-blue?logo=python&logoColor=yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2.20%2B-blue?logo=kotlin&logoColor=FF00FF)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=yellow)
 
