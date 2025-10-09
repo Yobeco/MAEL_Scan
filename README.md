@@ -43,12 +43,12 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ## C- Comment utiliser MAEL Scan ? :blush:
 
-:warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) dans la langue concernée sur votre téléphone.   
+:warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) correspondant la langue utilisée sur votre téléphone.   
 Pour ces exemples, installez la voix française :fr:.
 
 ---
 
-**⟶ L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.**
+***⟶ L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.***
 
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
