@@ -24,19 +24,23 @@ Copyright (c) 2025 Yonnel Bécognée
 
 ## A- Description :eye:
 
-text
+**MAEL Scan** est une application pour téléphone portable :iphone: (bientôt, une version Raspberry  Pi <img src="https://cdn.simpleicons.org/raspberrypi/FFFF" width="24" height="24" style="vertical-align: middle;" />) qui permet à l'élève de flasher les code QR créés par son professeur avec **MAEL Gen** et d'écouter leur contenu.
+Son interface est conçue pour être utilisée par un enfant, dés 4 ans.
+Elle ne comporte que 3 gros boutons par défaut.
+
+**MAEL Scan** permet aux élèves ne possédant auncun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur.
 
 ---
 
 ## B- Fonctionnalités :clipboard:
 
-- **Scanner** : text
-- **Écouter à nouveau** : text
-- **Écouter plus lentement** : text
-- **Lecture "MP3"** : text
+- **Scanner** : Lance le scan du code QR puis oralise son contenu.
+- **Écouter à nouveau** : Permet de ré-écouter sans re-scanner.
+- **Écouter plus lentement** : Permet de ré-écouter sans re-scanner, mais de manière plus lente (ne fonctionne pas avec les mp3).
+- **Lecture "MP3"** : Lors du scan, si le lien point vers un fichier mp3, l'élève entendra ce fichier.
 ---
 
-## C- Comment utiliser MAEL Scan
+## C- Comment utiliser MAEL Scan ? :hand:
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
