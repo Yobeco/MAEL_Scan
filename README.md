@@ -66,7 +66,7 @@ text
 
 1. **:speaker: Écouter le fichier mp3.**
 
-[!info]+**Ré-écouter**
+[!info] Ré-écouter
 
 Texte
 
