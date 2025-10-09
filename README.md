@@ -15,7 +15,7 @@ Copyright (c) 2025 Yonnel Bécognée
 
 [![Status: Active](https://img.shields.io/badge/status-active-009900.svg)]()
 
-## :fr: [Français](https://github.com/Yobeco/MAEL_Gen) | :gb: English
+## :fr: [Français](https://github.com/Yobeco/MAEL_Scan) | :gb: English
 
 ---
 
@@ -40,10 +40,10 @@ text
 
 ### 1- Si le code QR contient un texte
 
-1. Lancez MAEL San
+1. Lancez MAEL Scan
 1. Flasher un code QR (Généré par MAEL Gen)
 
-![Scan](./readme_assets/Scanner.png)
+![Scan](./readme_assets/Scanner.png)![Code QR de test](./readme_assets/QRCode_test.png)
 
 1. :speaker: Écouter le contenu du code QR.
 
