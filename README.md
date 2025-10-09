@@ -38,7 +38,7 @@ text
 
 ## C- Comment utiliser MAEL Scan
 
-### 1- Si le code QR contient un texte
+### 1- Si le code QR contient un texte :spiral_notepad:
 
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
