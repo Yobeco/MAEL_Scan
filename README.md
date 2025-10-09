@@ -53,7 +53,13 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
-![Code QR de test](./readme_assets/test_text.png)
+
+ | Mode | Exemple |
+ |:--------:|--------------------|
+ | Lecture | ![Code QR de test](./readme_assets/test_text.png) |
+
+
+
 
 1. **:speaker: Écouter le contenu du code QR.**
 
