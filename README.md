@@ -24,11 +24,15 @@ Copyright (c) 2025 Yonnel Bécognée
 
 ## A- Description :eye:
 
-**MAEL Scan** est une application pour téléphone portable :iphone: (bientôt, une version Raspberry  Pi <img src="https://cdn.simpleicons.org/raspberrypi/FFFF" width="24" height="24" style="vertical-align: middle;" />) qui permet à l'élève de flasher les code QR créés par son professeur avec **MAEL Gen** et d'écouter leur contenu.
-Son interface est conçue pour être utilisée par un enfant, dés 4 ans.
+**MAEL Scan** est une application pour téléphone portable :iphone: (bientôt, une version Raspberry  Pi <img src="https://cdn.simpleicons.org/raspberrypi/FFFF" width="24" height="24" style="vertical-align: middle;" />) qui permet à l'élève de flasher les code QR créés par son professeur avec **MAEL Gen** et d'écouter leur contenu :speaker:.   
+Son interface est conçue pour être utilisée par un enfant, dés 4 ans :baby:.   
 Elle ne comporte que 3 gros boutons par défaut.
 
-**MAEL Scan** permet aux élèves ne possédant auncun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur.
+**MAEL Scan** permet aux élèves ne possédant aucun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur. Elle permet donc au professeur de booster son enseignement d'une langue :chart_with_upwards_trend:.
+
+**Potentiellement 55 langues sont implémentables !** :astonished:
+
+:fr: :gb: :es: :portugal: :brazil: :it: :de: :ru: :jp: :cn: :kr: ...
 
 ---
 
