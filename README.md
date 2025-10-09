@@ -54,9 +54,9 @@ Elle ne comporte que 3 gros boutons par défaut.
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
 
- | Mode | Exemple | Mode | Exemple | Mode | Exemple |
+ |  | Exemple |  | Exemple |  | Exemple |
  |:--------:|--------------------|:--------:|--------------------|:--------:|--------------------|
- | Lecture | ![Code QR de test](./readme_assets/test_text.png) | Dicter | ![Code QR de test](./readme_assets/test_text.png) | Épeler | ![Code QR de test](./readme_assets/test_text.png) |
+ | Mode Lecture | ![Code QR de test](./readme_assets/test_text.png) | Mode Dicter | ![Code QR de test](./readme_assets/test_text.png) | Mode Épeler | ![Code QR de test](./readme_assets/test_text.png) |
 
 
 
