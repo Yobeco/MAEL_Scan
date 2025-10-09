@@ -43,7 +43,7 @@ text
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR (Généré par MAEL Gen)**
 
-![Scan](./readme_assets/Scanner.png)![Code QR de test](./readme_assets/QRCode_test.png)
+![Scan](./readme_assets/Scanner.png)![Code QR de test](./readme_assets/CodeQR_test.png)
 
 1. **:speaker: Écouter le contenu du code QR.**
 
