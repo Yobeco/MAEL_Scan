@@ -97,9 +97,9 @@ Appuyez sur ce bouton :
 
 1. **Gérer la lecture du fichier**
 
-![Play](./readme_assets/Play.png) ![Stop](./readme_assets/Stop.png) ![Pause](./readme_assets/Pause.png)
+![Play](./readme_assets/Play.png) ![Pause](./readme_assets/Pause.png) ![Stop](./readme_assets/Stop.png)
 
-*⟶ L'élève entendra une voix de synthèse :speaking_head:*
+*⟶ L'élève entendra le fichier .mp3. :musical_note:*
 
 ---
 
