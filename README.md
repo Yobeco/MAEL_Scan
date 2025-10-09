@@ -110,8 +110,8 @@ Appuyez sur ce bouton :
 ---
 
 1. **MAEL Scan** scanne un code QR
-1. Il décrypte le contenu du code QR (Algorithme déjà écrit).
-1. Il extrait le préfixe et le suffixe.
+1. Il **décrypte** le contenu du code QR (Algorithme déjà écrit).
+1. Il extrait le **préfixe** et le **suffixe** avec les [`/regex/](https://en.wikipedia.org/wiki/Regular_expression).
 1. Il en déduit la langue, le pays et le mode (ou si c'est un mp3).
 1. Il configure le module de synthèse vocale selon la langue et le pays (ou choisit le module de lecture mp3)
 1. Il configure le mode (Lecture / Cacher / Dicter / Éperler) et oralise le texte comme demandé.
