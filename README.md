@@ -38,23 +38,28 @@ Elle ne comporte que 3 gros boutons par défaut.
 - **Écouter à nouveau** : Permet de ré-écouter sans re-scanner.
 - **Écouter plus lentement** : Permet de ré-écouter sans re-scanner, mais de manière plus lente (ne fonctionne pas avec les mp3).
 - **Lecture "MP3"** : Lors du scan, si le lien point vers un fichier mp3, l'élève entendra ce fichier.
+
 ---
 
 ## C- Comment utiliser MAEL Scan ? :blush:
+
+:warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) dans la langue concernée sur votre téléphone.   
+Pour ces exemples, installez la voix française :fr:.
+
+---
 
 **⟶ L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.**
 
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
 
+Appuyez sur ce bouton :
+
 ![Scan](./readme_assets/Scanner.png)
 
 ---
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
-
-:warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) dans la langue concernée sur votre téléphone.   
-Pour ces exemples, installez la voix française :fr: .
 
  |  | Exemple |  | Exemple |  | Exemple |
  |:--------:|--------------------|:--------:|--------------------|:--------:|--------------------|
