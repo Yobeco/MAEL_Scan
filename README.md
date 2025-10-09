@@ -9,9 +9,9 @@ Copyright (c) 2025 Yonnel Bécognée
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-V2.2.20%2B-9933FF?logo=kotlin&logoColor=FF66FF)
 
-![SQLite](https://img.shields.io/badge/SQLite-V3.50.4%2B-004C99?logo=sqlite&logoColor=99CCFF)
+[![SQLite](https://img.shields.io/badge/SQLite-V3.50.4%2B-004C99?logo=sqlite&logoColor=99CCFF)]()
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-009900.svg)](#contributing) [![Beginner friendly](https://img.shields.io/badge/Beginner%20friendly-FF8000)]()
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-009900.svg)](#contributing) [![Beginner friendly](https://img.shields.io/badge/Beginner%20friendly-FF8000)](https://sqlite.org/)
 
 [![Status: Active](https://img.shields.io/badge/status-active-009900.svg)]()
 
