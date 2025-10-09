@@ -53,7 +53,7 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
-:warning: Assurez-vous que vous avez **installé la voix de synthèse** dans la langue concernée sur votre téléphone.   
+:warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) dans la langue concernée sur votre téléphone.   
 Pour ces exemples, installez la voix française :fr: .
 
  |  | Exemple |  | Exemple |  | Exemple |
