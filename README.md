@@ -17,29 +17,21 @@ Copyright (c) 2025 Yonnel Bécognée
 
 ---
 
-![](./readme_assets/MAEL_Gen.png)
+![](https://github.com/Yobeco/MAEL_Project/blob/main/readme_assets/MAEL-Scan2-seul-350px.png)
 
 
 ## A- Description :eye:
 
-:computer: **Application de bureau** multiplateforme (Linux, MacOS et Windows) qui permet aux enseignants de créer facilement des codes QR contenant du texte que leurs élèves peuvent écouter. 
-Ils peuvent les intégrer à leurs différents supports pédagogiques, ajoutant ainsi une dimension audio à leurs documents papier.
-
-Les codes QR seront scannés par les élèves à l'aide de l'application **MAEL Scan** :speaker: (disponible sur Android et bientôt sur iOS).
+text
 
 ---
 
 ## B- Fonctionnalités :clipboard:
 
-- **Mode "lecture"** : affiche et lit à haute voix le texte contenu dans le code QR.
-- **Mode "dicter"** : n'affiche pas mais lit à haute voix le texte contenu dans le code QR.
-- **Mode "épeler"** : lit à haute voix chaque lettre du texte contenu dans le code QR.
-- **Mode "MP3"** : lit un fichier provenant de Google Drive.
-- **Sons mp3 spéciaux** : Sons issus de la méthode Borel-Maisonny et de l'Abecédaire Consigny (créé par  la zone AMLA Nort)
-- **55 langues supportées** (sauf pour le mode épeler pour le moment)
-
-:fr: :gb: :es: :portugal: :brazil: :it: :de: :ru: :jp: :cn: :kr: ...
-
+- **Scanner** : text
+- **Écouter à nouveau** : text
+- **Écouter plus lentement** : text
+- **Lecture "MP3"** : text
 ---
 
 ## C- Comment utiliser MAEL Scan
