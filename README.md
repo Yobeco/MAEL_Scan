@@ -41,7 +41,7 @@ text
 ### 1- Si le code QR contient un texte
 
 1. **Lancez MAEL Scan**
-1. **Flasher un code QR (Généré par MAEL Gen)**
+1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
 
 ![Scan](./readme_assets/Scanner.png)![Code QR de test](./readme_assets/CodeQR_test.png)
 
@@ -60,7 +60,7 @@ text
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
 1. **Lancez MAEL San**
-1. **Flasher un code QR (Généré par MAEL Gen)**
+1. **Flasher un code QR généré par MAEL Gen depuis un fichier mp3 sur un Drive de Google ([Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md))**
 
 ![Scan](./readme_assets/Scanner.png)
 
