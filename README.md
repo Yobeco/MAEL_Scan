@@ -66,7 +66,7 @@ text
 
 1. **:speaker: Écouter le fichier mp3.**
 
-1. **Réécouter**
+1. [!info]**Ré-écouter**
 
 ![Ré-écouter](./readme_assets/Reecouter.png)
 
