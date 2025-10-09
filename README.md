@@ -84,7 +84,7 @@ Appuyez sur ce bouton :
 
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
-:sparkles: **[Comment mettre un .mp3 sur Google Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3) <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
+:sparkles: **[Comment mettre un .mp3 sur Google Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--utiliser_un_fichier-mp3) <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
 
 <!-- Lien vers une page et un titre en particulier. Ne fonctionne pas si le titre contient un icône. Ne fonctionne pas dans tous les éditeurs-->
 
