@@ -40,7 +40,7 @@ Elle ne comporte que 3 gros boutons par défaut.
 - **Lecture "MP3"** : Lors du scan, si le lien point vers un fichier mp3, l'élève entendra ce fichier.
 ---
 
-## C- Comment utiliser MAEL Scan ? :hand:
+## C- Comment utiliser MAEL Scan ? :blush:
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
