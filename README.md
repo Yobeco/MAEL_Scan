@@ -47,11 +47,11 @@ text
 
 1. **:speaker: Écouter le contenu du code QR.**
 
-1. **Réécouter**
+1. **Ré-écouter**
 
 ![Ré-écouter](./readme_assets/Reecouter.png)
 
-1. **Réécouter plus lentement**
+1. **Ré-écouter plus lentement**
 
 ![Ré-écouter](./readme_assets/Lent.png)
 
@@ -62,7 +62,7 @@ text
 1. **Lancez MAEL San**
 1. **Flasher un code QR généré par MAEL Gen depuis un fichier mp3 sur un Drive de Google <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
 
- :magic_wand: [Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3)
+ :magic_wand: **[Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3)**
 
 <!-- Lien vers une page et un titre en particulier. Ne fonctionne pas si le titre contient un icône. Ne fonctionne pas dans tous les éditeurs-->
 
@@ -112,19 +112,19 @@ text
 
 *Explication péralable :*
 
-Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondance entre les lettres et ce qu'il doit dire.
+Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.
 
 *Exemples :*
 
  | Lettre | Ce qui sera prononcé |
- |--------|--------------------|
+ |:--------:|--------------------|
  | A | a majuscule |
  | a | a |
  | é | e accent aigü |
  | ç | c cédille |
 
 Cette base de données est très spécifique à chaque langue.
-Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type `dictionnaire` qui prend la forme d'un **immense immeuble :building_construction: de petits blocs** difficile à afficher (et donc à gérer).  
+Dans la version *MIT App Inventor* de **MAEL Scan**, ces informations sont stoquées dans une variable de type `dictionnaire` qui prend la forme d'un **immense immeuble :office: de petits blocs** difficile à afficher (et donc à gérer).  
 Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
 
 1- **Implémentation d'une base de données SQLite <img src="https://cdn.simpleicons.org/sqlite/FFFF" width="24" height="24" style="vertical-align: middle;" />**
