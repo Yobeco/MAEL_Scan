@@ -129,7 +129,7 @@ Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simplei
 
 1- **Mode "dicter"**
 
-- Le _mode dictée_ actuel (oraliser le texte mais ne pas l'afficher) va changer de nom et s'appeler **"Mode caché"**.
+- Le _mode dictée_ actuel (oraliser le texte mais ne pas l'afficher) va changer de nom et s'appeler **"Mode cacher"**.
 
 - Le nouveau _mode dicter_ aura :
 
@@ -144,12 +144,9 @@ Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simplei
 
 3- **Mode "épeler"**
 
-*Explication péralable :*
-
-Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.
-
-*Exemples :*
-
+>*Explication péralable :*   
+Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.   
+*Exemples :*   
  | Lettre | Ce qui sera prononcé |
  |:--------:|--------------------|
  | A | a majuscule |
