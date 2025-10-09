@@ -125,7 +125,7 @@ Pour épeler un texte, **MAEL Scan** contient une structure de données contenan
 
 Cette base de données est très spécifique à chaque langue.
 Dans la version *MIT App Inventor* de **MAEL Scan**, ces informations sont stoquées dans une variable de type `dictionnaire` qui prend la forme d'un **immense immeuble :office: de petits blocs** difficile à afficher (et donc à gérer).  
-Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
+Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de *MIT App Inventor* et donc une des raisons du passage à Kotlin MP <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
 
 1- **Implémentation d'une base de données SQLite <img src="https://cdn.simpleicons.org/sqlite/FFFF" width="24" height="24" style="vertical-align: middle;" />**
 
@@ -163,9 +163,7 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 
 ## G- Installation :arrow_heading_down:
 
-Seule la version Android (MIT App Inventor) n'est encore disponible pour le moment.
-Pour essayer **MAEL Scan** :
-
-[Téléchargez le fichier MAEL_Scan_V5_0.apk](./binary_exec/MAEL_Scan_V5_0.apk)
+Seule la version Android *MIT App Inventor* n'est encore disponible pour le moment.   
+Pour essayer **MAEL Scan** [Téléchargez le fichier MAEL_Scan_V5_0.apk](./binary_exec/MAEL_Scan_V5_0.apk)
 
 
