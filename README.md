@@ -56,7 +56,7 @@ Elle ne comporte que 3 gros boutons par défaut.
 
  |  | Exemple |  | Exemple |  | Exemple |
  |:--------:|--------------------|:--------:|--------------------|:--------:|--------------------|
- | Mode Lecture | ![Code QR de test](./readme_assets/test_text.png) | Mode Dicter | ![Code QR de test](./readme_assets/test_text.png) | Mode Épeler | ![Code QR de test](./readme_assets/test_text.png) |
+ | Mode Lecture | ![Code QR de test](./readme_assets/test_text_lec.png) | Mode Dicter | ![Code QR de test](./readme_assets/test_text_dic.png) | Mode Épeler | ![Code QR de test](./readme_assets/test_text_epe.png) |
 
 
 
