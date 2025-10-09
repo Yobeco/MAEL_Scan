@@ -49,9 +49,11 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ![Scan](./readme_assets/Scanner.png)
 
+---
+
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
-![Code QR de test](./readme_assets/CodeQR_test.png)
+![Code QR de test](./readme_assets/test_text.png)
 
 1. **:speaker: Écouter le contenu du code QR.**
 
@@ -65,11 +67,15 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 *⟶ L'élève entendra une voix de synthèse :speaking_head:*
 
+---
+
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
  :magic_wand: **[Comment mettre un .mp3 sur Gogole Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3)** <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />
 
 <!-- Lien vers une page et un titre en particulier. Ne fonctionne pas si le titre contient un icône. Ne fonctionne pas dans tous les éditeurs-->
+
+![Code QR de test](./readme_assets/test_mp3.png)
 
 1. **:speaker: Écouter le fichier mp3.**
 1. **Ré-écouter**
