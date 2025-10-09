@@ -145,7 +145,8 @@ Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simplei
 3- **Mode "épeler"**
 
 *Explication péralable :*   
-Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.   
+Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.
+
 *Exemples :*
 
  | Lettre | Ce qui sera prononcé |
@@ -165,7 +166,7 @@ Il faudrait donc utiliser une base de données **SQLite** dont chaque table cont
 
 2- **Gestion des écritures idéogrammiques** :ideograph_advantage:
 
-Comment gérer l'épélation des langages comme le chinois :cn:, le japonais :jp: ou le koréen :kr: ?
+Comment gérer l'épellation des langages comme le chinois :cn:, le japonais :jp: ou le koréen :kr: ?
 
 Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le (la) bienvenu(e) ! :open_hands:
 
@@ -195,7 +196,7 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 
 ## G- Installation :arrow_heading_down:
 
-Seule la version Android <img src="https://cdn.simpleicons.org/android/FFFF" width="24" height="24" style="vertical-align: middle;" /> *MIT App Inventor* est disponible pour le moment.   
+Seule la version Android <img src="https://cdn.simpleicons.org/android/FFFF" width="24" height="24" style="vertical-align: middle;" /> *MIT App Inventor* est fonctionnelle pour le moment.   
 :inbox_tray: Pour essayer **MAEL Scan** [Télécharger le fichier MAEL_Scan_V5_0.apk](https://raw.githubusercontent.com/Yobeco/MAEL_Scan/main/binary_exec/MAEL_Scan_V5_0.apk)
 
 
