@@ -62,13 +62,13 @@ text
 1. **Lancez MAEL San**
 1. **Flasher un code QR généré par MAEL Gen depuis un fichier mp3 sur un Drive de Google ([Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md))**
 
+[[https://github.com/Yobeco/MAEL_Gen/blob/main/README.md### 2- Fichier MP3]]
+
 ![Scan](./readme_assets/Scanner.png)
 
 1. **:speaker: Écouter le fichier mp3.**
 
-[!info] Ré-écouter
-
-Texte
+1. **Ré-écouter**
 
 ![Ré-écouter](./readme_assets/Reecouter.png)
 
