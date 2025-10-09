@@ -40,18 +40,18 @@ text
 
 ### 1- Si le code QR contient un texte
 
-1. Lancez MAEL Scan
-1. Flasher un code QR (Généré par MAEL Gen)
+1. **Lancez MAEL Scan**
+1. **Flasher un code QR (Généré par MAEL Gen)**
 
 ![Scan](./readme_assets/Scanner.png)![Code QR de test](./readme_assets/QRCode_test.png)
 
-1. :speaker: Écouter le contenu du code QR.
+1. **:speaker: Écouter le contenu du code QR.**
 
-1. Réécouter
+1. **Réécouter**
 
 ![Ré-écouter](./readme_assets/Reecouter.png)
 
-1. Réécouter plus lentement
+1. **Réécouter plus lentement**
 
 ![Ré-écouter](./readme_assets/Lent.png)
 
@@ -59,18 +59,18 @@ text
 
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
-1. Lancez MAEL San
-1. Flasher un code QR (Généré par MAEL Gen)
+1. **Lancez MAEL San**
+1. **Flasher un code QR (Généré par MAEL Gen)**
 
 ![Scan](./readme_assets/Scanner.png)
 
-1. :speaker: Écouter le fichier mp3.
+1. **:speaker: Écouter le fichier mp3.**
 
-1. Réécouter
+1. **Réécouter**
 
 ![Ré-écouter](./readme_assets/Reecouter.png)
 
-1. Gérer la lecture du fichier
+1. **Gérer la lecture du fichier**
 
 ![Play](./readme_assets/Play.png) ![Stop](./readme_assets/Stop.png) ![Pause](./readme_assets/Pause.png)
 
