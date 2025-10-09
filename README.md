@@ -60,10 +60,11 @@ text
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
 1. **Lancez MAEL San**
+
 1. **Flasher un code QR généré par MAEL Gen depuis un fichier mp3 sur un Drive de Google ([Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3))**
 
 
-
+<!-- Lien vers une bae et un titre en particulier. Ne fonctionne pas si le titre contient un icône -->
 
 
 ![Scan](./readme_assets/Scanner.png)
