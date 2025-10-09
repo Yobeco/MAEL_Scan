@@ -38,6 +38,9 @@ Elle ne comporte que 3 gros boutons par défaut.
 - **Écouter à nouveau** : Permet de ré-écouter sans re-scanner.
 - **Écouter plus lentement** : Permet de ré-écouter sans re-scanner, mais de manière plus lente (ne fonctionne pas avec les mp3).
 - **Lecture "MP3"** : Lors du scan, si le lien point vers un fichier mp3, l'élève entendra ce fichier.
+- **Modes spéciaux** : Ce sont des bibliothèques de syllabes au format mp3 (intégrées dans MAEL Scan) car la lecture d'une syllabe unique est parfois de mauvaise quanlité avec la voix de synthèse. Il y a :
+    - les syllabes de l'abécédaire bilingue Consigny (en français et en espagnol)
+    - le syllabes de la méthode "Borel-Maisonny" (Syllabes très utilisées, associées à des gestes destinées à aider les enfants dysorthographiques)
 
 ---
 
@@ -64,9 +67,6 @@ Appuyez sur ce bouton :
  |  | Exemple |  | Exemple |  | Exemple |
  |:--------:|--------------------|:--------:|--------------------|:--------:|--------------------|
  | Mode Lecture | ![Code QR de test](./readme_assets/test_text_lec.png) | Mode Dicter | ![Code QR de test](./readme_assets/test_text_dic.png) | Mode Épeler | ![Code QR de test](./readme_assets/test_text_epe.png) |
-
-
-
 
 1. **:speaker: Écouter le contenu du code QR.**
 
@@ -109,7 +109,15 @@ Appuyez sur ce bouton :
 
 ---
 
-text
+1. **MAEL Scan** scanne un code QR
+1. Il décrypte le contenu du code QR (Algorithme déjà écrit).
+1. Il extrait le préfixe et le suffixe.
+1. Il en déduit la langue, le pays et le mode (ou si c'est un mp3).
+1. Il configure le module de synthèse vocale selon la langue et le pays (ou choisit le module de lecture mp3)
+1. Il configure le mode (Lecture / Cacher / Dicter / Éperler) et oralise le texte comme demandé.
+1. Si c'est un mode spécial , il va chercher l'audio correspondant (intégré à l'appli)
+
+[Document résumé](./readme_assets/MAEL_Scan-Pseudo_code_Kotlin.pdf)
 
 ---
 
