@@ -144,9 +144,10 @@ Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simplei
 
 3- **Mode "épeler"**
 
->*Explication péralable :*   
+*Explication péralable :*   
 Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondances entre les lettres et ce qu'il doit dire.   
-*Exemples :*   
+*Exemples :*
+
  | Lettre | Ce qui sera prononcé |
  |:--------:|--------------------|
  | A | a majuscule |
