@@ -114,7 +114,7 @@ Appuyez sur ce bouton :
 ---
 
 1. **MAEL Scan** scanne un code QR
-1. Il **décrypte** le contenu du code QR (Algorithme déjà écrit :+1:).
+1. Il **décrypte** le contenu du code QR (Algorithme déjà écrit en Kotlin :+1:).
 1. Il extrait le **préfixe** et le **suffixe** avec les [**regex**](https://en.wikipedia.org/wiki/Regular_expression).
 1. Il en déduit la **langue**, le **pays** et le **mode** (ou si c'est un **mp3**).
 1. Il configure :gear: le module de **synthèse vocale** du téléphone selon la langue et le pays (ou choisit le module de lecture mp3)
@@ -123,9 +123,9 @@ Appuyez sur ce bouton :
 
 [Document complémentaire](./readme_assets/MAEL_Scan-Pseudo_code_Kotlin.pdf) :spiral_notepad:
 
->*Annecdote* : la version *MIT App Inventor* ne possède pas les fonctions nécessaires pour décrypter le contenu du code QR. J'ai du écrire l'algorithme en JavaScript pour l'intégrer dans une page web utlisée par le module Web de *MIT App Inventor*.  
+>*Annecdote* : la version *MIT App Inventor* ne possède pas les fonctions nécessaires pour décrypter le contenu du code QR. J'ai dû écrire l'algorithme en JavaScript pour l'intégrer dans une page web utlisée par le module **Web** de *MIT App Inventor*.  
 Quel détour !!! :grimacing:   
-Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
+⟶ Une autre raison de la migration vers Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
 
 ---
 
