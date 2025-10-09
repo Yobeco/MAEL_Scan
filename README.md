@@ -42,16 +42,16 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ## C- Comment utiliser MAEL Scan ? :blush:
 
-**L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.**
+**⟶ L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.**
 
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
 
-![Scan](./readme_assets/Scanner.png)!
+![Scan](./readme_assets/Scanner.png)
 
 ### 1- Si le code QR contient un texte :spiral_notepad:
 
-[Code QR de test](./readme_assets/CodeQR_test.png)
+![Code QR de test](./readme_assets/CodeQR_test.png)
 
 1. **:speaker: Écouter le contenu du code QR.**
 
