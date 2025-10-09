@@ -164,8 +164,6 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 ## G- Installation :arrow_heading_down:
 
 Seule la version Android *MIT App Inventor* n'est encore disponible pour le moment.   
-Pour essayer **MAEL Scan** [Téléchargez le fichier MAEL_Scan_V5_0.apk](./binary_exec/MAEL_Scan_V5_0.apk)
-
-[Télécharger MAEL_Scan_V5_0.apk](https://raw.githubusercontent.com/Yobeco/MAEL_Scan/main/binary_exec/MAEL_Scan_V5_0.apk)
+Pour essayer **MAEL Scan** [Télécharger MAEL_Scan_V5_0.apk](https://raw.githubusercontent.com/Yobeco/MAEL_Scan/main/binary_exec/MAEL_Scan_V5_0.apk)
 
 
