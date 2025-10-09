@@ -62,9 +62,9 @@ text
 1. **Lancez MAEL San**
 1. **Flasher un code QR généré par MAEL Gen depuis un fichier mp3 sur un Drive de Google <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
 
- :heavy_check_mark: [Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3)
+ :magic_wand: [Comment faire](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--fichier-mp3)
 
-<!-- Lien vers une bae et un titre en particulier. Ne fonctionne pas si le titre contient un icône -->
+<!-- Lien vers une page et un titre en particulier. Ne fonctionne pas si le titre contient un icône. Ne fonctionne pas dans tous les éditeurs-->
 
 ![Scan](./readme_assets/Scanner.png)
 
