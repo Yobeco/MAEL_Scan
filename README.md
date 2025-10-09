@@ -112,7 +112,7 @@ text
 
 *Explication péralable :*
 
-Pour épeler un texte, MAEL Scan contient une structure de données contenant les correspondance entre les lettres et ce qu'il doit dire.
+Pour épeler un texte, **MAEL Scan** contient une structure de données contenant les correspondance entre les lettres et ce qu'il doit dire.
 
 *Exemples :*
 
@@ -124,8 +124,8 @@ Pour épeler un texte, MAEL Scan contient une structure de données contenant le
  | ç | c cédille |
 
 Cette base de données est très spécifique à chaque langue.
-Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type dictionnaire qui prend la forme d'un immense immeuble des petits blocs difficile à afficher (et donc à gérer).
-Il parait très compliqué de créer 55 dictionnaires de ce type, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP.
+Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type dictionnaire qui prend la forme d'un immense immeuble :building_construction: des petits blocs difficile à afficher (et donc à gérer).
+Il parait très compliqué de créer 55 dictionnaires de ce type :face_with_spiral_eyes:, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP.
 
 1- **Implémentation d'une base de données SQLite**
 Il faudrait donc utiliser une base de données SQLite dont chaque table contiendrait les correspondances Lettre / Ce qui sera prononcé.
