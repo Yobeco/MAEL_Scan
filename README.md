@@ -1,4 +1,4 @@
-# MAEL Scann - Kotlin 2.0
+# MAEL Scan - Kotlin 2.0
 
 ## What is MAEL?
 "Multi-application d'Aide à l'Enseignement des Langues"
