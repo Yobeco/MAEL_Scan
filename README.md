@@ -119,8 +119,7 @@ Appuyez sur ce bouton :
 
 [Document complémentaire](./readme_assets/MAEL_Scan-Pseudo_code_Kotlin.pdf) :spiral_notepad:
 
->*Annecdote* : la version *MIT App Inventor* ne possède pas les fonctions nécessaires pour décrypter le contenu du code QR. J'ai du écrire l'algorithme en JavaScript pour l'intégrer dans une page web utlisée par un module Web de *MIT App Inventor*. Quel détour !!!   
-Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
+>*Annecdote* : la version *MIT App Inventor* ne possède pas les fonctions nécessaires pour décrypter le contenu du code QR. J'ai du écrire l'algorithme en JavaScript pour l'intégrer dans une page web utlisée par le module Web de *MIT App Inventor*. Quel détour !!! :grimacing:   Voici une autre raison de la migration vers Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
 
 ---
 
