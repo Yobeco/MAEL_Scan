@@ -36,28 +36,43 @@ text
 
 ## C- Comment utiliser MAEL Scan
 
-### 1- Voix de synthèse :speaking_head:
+### 1- Si le code QR contient un texte
 
-1. Lancez MAEL Gen
-1. Introduisez le texte que vous souhaitez faire entendre dans le champ de texte (écrivez-le, ou faites `Ctrl + v` ou encore un simple `clic droit`)
-1. Choisissez la langue (Menu `Langue`) dans laquelle est le texte que vous avez introduit.
-1. Choisissez le mode (Menu `Paramètre`) selon votre objectif.
-1. Ajustez la taille du code QR (champ `Taille` ou glissière)
-1. Collez dans votre document : éditeur de texte, LibreOffice Draw <img src="https://cdn.simpleicons.org/libreofficeimpress/FFFF" width="24" height="24" style="vertical-align: middle;" />...
+1. Lancez MAEL San
+1. Flasher un code QR (Généré par MAEL Gen)
 
-*⟶ L'élève n'aura plus qu'à scanner ce code avec __MAEL Scan__ pour écouter le contenu :headphones:...*
+![Scan](./readme_assets/Scanner.png)
 
-### 2- Fichier MP3 :microphone:
+1. :speaker: Écouter le contenu du code QR.
 
-1. Déposez un fichier .mp3 sur votre compte Google Drive <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />
+1. Réécouter
 
-1. **Partagez** le dossier où se trouve le fichier .mp3 **avec toutes les personnes possédant le lien**.
-1. Récupérer le lien de partage.
-1. Coller ce lien dans MAEL Gen.
-1. Ajustez la taille (champ `Taille`ou glissière).
-1. Collez dans votre document (éditeur de texte ou LibreOffice Draw <img src="https://cdn.simpleicons.org/libreofficewriter/FFFF" width="24" height="24" style="vertical-align: middle;" />...).
+![Ré-écouter](./readme_assets/Reecouter.png)
 
-*⟶ L'élève n'aura plus qu'à scanner ce code avec __MAEL Scan__ pour écouter le fichier mp3 :headphones: : une poésie, un dialogue...*
+1. Réécouter plus lentement
+
+![Ré-écouter](./readme_assets/Lent.png)
+
+*⟶ L'élève entendra une voix de synthèse :speaking_head:*
+
+### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
+
+1. Lancez MAEL San
+1. Flasher un code QR (Généré par MAEL Gen)
+
+![Scan](./readme_assets/Scanner.png)
+
+1. :speaker: Écouter le fichier mp3.
+
+1. Réécouter
+
+![Ré-écouter](./readme_assets/Reecouter.png)
+
+1. Gérer la lecture du fichier
+
+![Play](./readme_assets/Play.png) ![Stop](./readme_assets/Stop.png) ![Pause](./readme_assets/Pause.png)
+
+*⟶ L'élève entendra une voix de synthèse :speaking_head:*
 
 ---
 
@@ -66,65 +81,7 @@ text
 *(Pour aider à la compréhension du code)*
 
 ---
-
-**:one: Au premier démarrage**
-
-Quand on écrit un texte dans l'entrée de texte, la langue par défault est "français" :fr: et le mode par défaut est "Lecture" :
-
-1- Le texte subit d'abord un "encryptage" léger.
-
-2- Un code QR contenant ce texte (utf-8) est généré.
-
-*⟶ MAEL Scan comprendra qu'il est en mode lecture et utilisera la voix de synthèse française :fr:.*
-
----
-
-**:two: Si vous changez _la langue_ du contenu, par exemple _italien_ :**
-
-1- Le texte reçoit un préfixe du type `<it>`
-
-2- Le texte subit d'abord un "encryptage" léger.
-
-3- Un code QR contenant ce texte (utf-8) est généré.
-
-*⟶ __MAEL Scan__ comprendra qu'il est en __mode lecture__ mais il utilisera cette fois la voix de synthèse de voix __italienne__ :it:.*
-
----
-
-**:three: Si vous choisissez le *mode dicter* :**
-
-1- Le texte reçoit un préfixe du type `<it>`
-
-2- Le texte reçoit un suffixe du type `#d`
-
-2- Le texte subit d'abord un "encryptage" léger.
-
-3- Un code QR contenant ce texte (utf-8) est généré.
-
-*⟶ __MAEL Scan__ comprendra cette fois qu'il est en __mode dictée__ et utilisera la voix de synthèse de voix __italienne__ :it:.*
-
----
-
-:speaking_head: Les voix de synthèse sont celles générées par le téléphone.
-
-:warning: Certaines langues (avec gtts) ont plusieurs voix possibles. Le préfixe sera alors plus long. Par exemples :
-
-| Voix | Préfixe |
-| ----------- | ----------- |
-| Portugais du portugal | `<ptPRT>` |
-| Portugais du Bésil | `<ptBRA>` |
-
-:bookmark_tabs: [Voir la liste des langues de GTTS (Probablement à actualiser...)](./readme_assets/Langues_GTTS.pdf)
-
----
-
-**:four: À chaque modification :**
-
-Le fichier `.png` généré est automatiquement envoyé dans le presse-papier. :clipboard:
-
-(Un petit icône indique si dans le presse-papier, il y a un code QR ou du texte)
-
-*⟶ Le professeur n'a plus qu'à faire `Coller` dans son éditeur personnel.*
+text
 
 ---
 
@@ -145,23 +102,34 @@ Le fichier `.png` généré est automatiquement envoyé dans le presse-papier. :
 - Création d'un MAEL Cloud avec moins de limitations que Google Drive. (hébergé avec la plateforme MAEL Phrase).
 - Ajout d'une option (suffixe) qui indiquera à **MAEL Scan** qu'il doit conserver le fichier pour ne pas à avoir à le re-télécharger s'il est scanné à nouveau.
 
-3- **Interface**
+3- **Mode "épeler"**
 
-- Remplacement de TKinter par **TTKBootstrap**
-- **Déplacer les boutons d'accès au changement de mode** du menu « Paramètres » vers l'emplacement du curseur (qui sera supprimé).
-- Gestion des langues s'écrivant de droite à gauche :arrow_left:.
+*Explication péralable :*
 
-4- **LibreOffice** <img src="https://cdn.simpleicons.org/LibreOffice/FFFF" width="24" height="24" style="vertical-align: middle;" />
+Pour épeler un texte, MAEL Scan contient une structure de données contenant les correspondance entre les lettres et ce qu'il doit dire.
 
-Quand on crée un document contenant beaucoup de codes QR, il devient plus facile de se tromper. (Mettre deux fois le même code QR par exemple... :sweat_smile: )
+*Exemples :*
 
-*(Pour que le professeur puisse voir d'un seul coup d'oeil le mode du code QR, j'avais ajouté un petit carré de couleur en bas à droite.)*
+ | Lettre | Ce qui sera prononcé |
+ |--------|--------------------|
+ | A | a majuscule |
+ | a | a |
+ | é | e accent aigü |
+ | ç | c cédille |
 
-De la même manière, pour pouvoir vérifier facilement le contenu du code QR, j'aurais voulu ajouter son texte dans les méta-données du fichier .png pour que, sous LibreOffice, les métadonnées de l'image apparaissent dans une info-bulle :left_speech_bubble: ou bien quelles soient visibles dans l'inspecteur (colonne de droite).
+Cette base de données est très spécifique à chaque langue.
+Dans la version MIT App Inventor, ces informations sont stoquées dans une variable de type dictionnaire qui prend la forme d'un immense immeuble des petits blocs difficile à afficher (et donc à gérer).
+Il parait très compliqué de créer 55 dictionnaires de ce type, c'est un des facteurs limitant de MIT App Inventor et donc une des raisons du passage à Kotlin MP.
 
-Je n'ai pas encore trouvé comment faire quelque-chose de similaire. :disappointed_relieved:
+1- **Implémentation d'une base de données SQLite**
+Il faudrait donc utiliser une base de données SQLite dont chaque table contiendrait les correspondances Lettre / Ce qui sera prononcé.
 
-### :+1: Proposez votre aider pour developper ces fonctions
+2- **Gestion des écritures idéogrammiques**
+Comment gérer l'épélation des langages comme le chinois, le japonais ou le koréen ?
+
+Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le (la) bienvenu(e) !
+
+### :+1: Proposez votre aider pour developper une de ces fonctions
 
 
 ---
@@ -187,13 +155,9 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 
 ## G- Installation :arrow_heading_down:
 
-Pour essayer **MAEL Gen**, exécutez le script :
+Seule la version Android n'est encore disponible pour le moment.
+Pour essayer **MAEL Scan** :
 
-    git clone https://github.com/Yobeco/MAEL_Gen.git
-    cd MAEL_Gen
-    python3 -m venv mael_venv
-    source mael_venv/bin/activate
-    pip install -r requirements.txt
-    python3 MAEL_V5.0.py
+[Téléchargez le fichier MAEL_Scan_V5_0.apk](./binary_exec/MAEL_Scan_V5_0.apk)
 
 
