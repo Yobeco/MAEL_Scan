@@ -3,7 +3,7 @@
 # MAEL Scan
 
 *Une application appartenant au [__projet MAEL__](https://github.com/Yobeco/MAEL_Project)*   
-Copyright (c) 2025 Yonnel Bécognée
+Copyright (c) 2022 Yonnel Bécognée
 
 [![License: Libre Non Commerciale](https://img.shields.io/badge/license-GNU%20GENERAL%20PUBLIC%20LICENSE%20V3-white.svg)](./LICENSE)
 
@@ -28,7 +28,7 @@ Copyright (c) 2025 Yonnel Bécognée
 Son interface est conçue pour être utilisée par un enfant, dés 4 ans :baby:.   
 Elle ne comporte que 3 gros boutons par défaut.
 
-**MAEL Scan** permet aux élèves ne possédant aucun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur. Elle permet donc au professeur de **booster son enseignement d'une langue** :chart_with_upwards_trend:.
+**MAEL Scan** permet aux élèves ne possédant aucun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur :100:. Elle permet donc au professeur de **booster son enseignement d'une langue** :chart_with_upwards_trend:.
 
 **Potentiellement 55 langues sont implémentables !** :astonished:
 
@@ -174,7 +174,7 @@ Comment gérer l'épellation des langages comme le chinois :cn:, le japonais :jp
 
 Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le (la) bienvenu(e) ! :open_hands:
 
-### :+1: Proposez votre aider pour developper une de ces fonctions
+### :+1: Proposez votre aide pour developper une de ces fonctions
 
 
 ---
