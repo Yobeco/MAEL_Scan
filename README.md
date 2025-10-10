@@ -28,7 +28,7 @@ Copyright (c) 2022 Yonnel Bécognée
 Son interface est conçue pour être utilisée par un enfant, dés 4 ans :baby:.   
 Elle ne comporte que 3 gros boutons par défaut.
 
-**MAEL Scan** permet aux élèves ne possédant aucun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur :100:. Elle permet donc au professeur de **booster son enseignement d'une langue** :chart_with_upwards_trend:.
+**MAEL Scan** permet aux élèves ne possédant aucun "parlant" chez lui d'écouter la langue étudiée dans un contexte pédagogique élaboré par son professeur :100:. Il permet donc au professeur de **booster son enseignement d'une langue** :chart_with_upwards_trend:.
 
 **Potentiellement 55 langues sont implémentables !** :astonished:
 
