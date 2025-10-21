@@ -55,7 +55,7 @@ Pour ces exemples, installez la voix française :fr:.
 
 ---
 
-***⟶ L'élève ne sait pas ce que contient le code QR, il n'a qu'à le flasher.***
+⟶ L'élève ne sait pas ce que contient le code QR : c'est le professeur qui décide du contenu (texte, langue, mode, lien mp3...) lors de sa création. ***L'élève n'a qu'à le flasher.***
 
 1. **Lancez MAEL Scan**
 1. **Flasher un code QR généré par MAEL Gen depuis une texte.**
@@ -202,5 +202,4 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 
 Seule la version Android <img src="https://cdn.simpleicons.org/android/FFFF" width="24" height="24" style="vertical-align: middle;" /> *MIT App Inventor* est fonctionnelle pour le moment.   
 :inbox_tray: Pour essayer **MAEL Scan** [Télécharger le fichier MAEL_Scan_V5_0.apk](https://raw.githubusercontent.com/Yobeco/MAEL_Scan/main/binary_exec/MAEL_Scan_V5_0.apk)
-
 
