@@ -36,8 +36,6 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ---
 
----
-
 ## B- Fonctionnalités :clipboard:
 
 - **Scanner** :speaker: : Lance le scan du code QR puis oralise son contenu.
@@ -50,14 +48,10 @@ Elle ne comporte que 3 gros boutons par défaut.
 
 ---
 
----
-
 ## C- Comment utiliser MAEL Scan ? :blush:
 
 :warning: Assurez-vous que vous avez [**installé la voix de synthèse**](./readme_assets/MAEL_Scan_tuto.pdf) correspondant la langue utilisée sur votre téléphone.   
 Pour ces exemples, installez la voix française :fr:.
-
----
 
 ---
 
@@ -69,8 +63,6 @@ Pour ces exemples, installez la voix française :fr:.
 Appuyez sur ce bouton :
 
 ![Scan](./readme_assets/Scanner.png)
-
----
 
 ---
 
@@ -94,8 +86,6 @@ Appuyez sur ce bouton :
 
 ---
 
----
-
 ### 2- Si le code QR contient un lien vers un fichier MP3 :microphone:
 
 :sparkles: **[Comment mettre un .mp3 sur Google Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--utiliser-un-fichier-mp3) <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
@@ -115,13 +105,9 @@ Appuyez sur ce bouton :
 
 ---
 
----
-
 ## D- Principe de fonctionnement :gear:
 
 *(Pour aider à la compréhension du code)*
-
----
 
 ---
 
@@ -138,8 +124,6 @@ Appuyez sur ce bouton :
 >*Annecdote* : la version *MIT App Inventor* ne possède pas les fonctions nécessaires pour décrypter le contenu du code QR. J'ai dû écrire l'algorithme en JavaScript pour l'intégrer dans une page web utlisée par le module **Web** de *MIT App Inventor*.  
 Quel détour !!! :grimacing:   
 ⟶ Une autre raison de la migration vers Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
-
----
 
 ---
 
@@ -192,8 +176,6 @@ Si un(e) spécialiste d'une de ces langues est inétressé(e), il (elle) sera le
 
 ---
 
----
-
 ## F- Participez au projet MAEL :open_hands:
 
 :ring_buoy: Pour **obtenir de l'aide** concernant l'utilisation de MAEL ou pour **paticiper au développement** :computer:, écrivez moi ici :
@@ -210,8 +192,6 @@ Un grand merci à toutes les personnes qui vont contribuer à ce projet !
 | [<img src="https://github.com/Nail-yk.png" width="50" style="border-radius: 50%;">](https://github.com/Nail-yk) | Padawan         | [@Nail-yk](https://github.com/Nail-yk) | Traduction de la documentation |
 | ... | ... | ... | Développeur |
 | ... | ... | ... | Développeuse |
-
----
 
 ---
 

@@ -36,8 +36,6 @@ It only includes 3 large buttons by default.
 
 ---
 
----
-
 ## B- Features :clipboard:
 
 - **Scan** :speaker: : Starts scanning the QR code and then vocalizes its content.
@@ -50,14 +48,10 @@ It only includes 3 large buttons by default.
 
 ---
 
----
-
 ## C- How to use MAEL Scan? :blush:
 
 :warning: Make sure you have [**installed the text-to-speech voice**](./readme_assets/MAEL_Scan_tuto.pdf) corresponding to the language used on your phone.   
 For these examples, install the French voice :fr:.
-
----
 
 ---
 
@@ -69,8 +63,6 @@ For these examples, install the French voice :fr:.
 Press this button:
 
 ![Scan](./readme_assets/Scanner.png)
-
----
 
 ---
 
@@ -94,8 +86,6 @@ Press this button:
 
 ---
 
----
-
 ### 2- If the QR code contains a link to an MP3 file :microphone:
 
 :sparkles: **[How to upload an .mp3 to Google Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--utiliser-un-fichier-mp3) <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
@@ -115,13 +105,9 @@ Press this button:
 
 ---
 
----
-
 ## D- Operating principle :gear:
 
 *(To help understand the code)*
-
----
 
 ---
 
@@ -138,8 +124,6 @@ Press this button:
 >*Anecdote* : the *MIT App Inventor* version does not have the necessary functions to decrypt the content of the QR code. I had to write the algorithm in JavaScript to integrate it into a web page used by the **Web** module of *MIT App Inventor*.  
 What a detour!!! :grimacing:   
 ⟶ Another reason for migrating to Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
-
----
 
 ---
 
@@ -192,8 +176,6 @@ If a specialist in one of these languages is interested, he or she will be welco
 
 ---
 
----
-
 ## F- Participate in the MAEL project :open_hands:
 
 :ring_buoy: To **get help** regarding the use of MAEL or to **participate in development** :computer:, write to me here:
@@ -210,8 +192,6 @@ A big thank you to everyone who will contribute to this project!
 | [<img src="https://github.com/Nail-yk.png" width="50" style="border-radius: 50%;">](https://github.com/Nail-yk) | Padawan         | [@Nail-yk](https://github.com/Nail-yk) | Documentation translation |
 | ... | ... | ... | Developer |
 | ... | ... | ... | Developer |
-
----
 
 ---
 
