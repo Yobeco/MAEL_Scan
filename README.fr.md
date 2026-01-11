@@ -16,9 +16,7 @@ Copyright (c) 2022 Yonnel Bécognée
 
 [![Status: Active](https://img.shields.io/badge/status-active-009900.svg)]()
 
-## :fr: [Français](https://github.com/Yobeco/MAEL_Scan) | :gb: English
-
----
+## :fr: Français | :gb: [English](https://github.com/Yobeco/MAEL_Scan)
 
 ---
 
