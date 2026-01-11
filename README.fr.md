@@ -18,8 +18,6 @@ Copyright (c) 2022 Yonnel Bécognée
 
 ## :fr: Français | :gb: [English](https://github.com/Yobeco/MAEL_Scan)
 
----
-
 ![](https://github.com/Yobeco/MAEL_Project/blob/main/readme_assets/MAEL-Scan2-seul-350px.png)
 
 ## A- Description :eye:
