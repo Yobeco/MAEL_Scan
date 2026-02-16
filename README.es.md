@@ -16,9 +16,7 @@ Copyright (c) 2022 Yonnel Bécognée
 
 [![Estado: Activo](https://img.shields.io/badge/status-active-009900.svg)]()
 
-## :fr: [Francés](https://github.com/Yobeco/MAEL_Scan) | :gb: Inglés
-
----
+## :fr: [Français](https://github.com/Yobeco/MAEL_Scan/blob/main/README.fr.md) | :es: Español | :gb: [English](https://github.com/Yobeco/MAEL_Scan/blob/main/README.md)
 
 ---
 
@@ -38,8 +36,6 @@ Solo incluye 3 botones grandes por defecto.
 
 ---
 
----
-
 ## B- Funcionalidades :clipboard:
 
 - **Escanear** :speaker: : Inicia el escaneo del código QR y luego oraliza su contenido.
@@ -52,14 +48,10 @@ Solo incluye 3 botones grandes por defecto.
 
 ---
 
----
-
 ## C- ¿Cómo usar MAEL Scan? :blush:
 
 :warning: Asegúrese de haber [**instalado la voz de síntesis**](./readme_assets/MAEL_Scan_tuto.pdf) correspondiente al idioma utilizado en su teléfono.   
 Para estos ejemplos, instale la voz francesa :fr:.
-
----
 
 ---
 
@@ -71,8 +63,6 @@ Para estos ejemplos, instale la voz francesa :fr:.
 Pulse este botón:
 
 ![Scan](./readme_assets/Scanner.png)
-
----
 
 ---
 
@@ -96,8 +86,6 @@ Pulse este botón:
 
 ---
 
----
-
 ### 2- Si el código QR contiene un enlace a un archivo MP3 :microphone:
 
 :sparkles: **[Cómo subir un archivo .mp3 a Google Drive](https://github.com/Yobeco/MAEL_Gen/blob/main/README.md#2--utiliser-un-fichier-mp3) <img src="https://cdn.simpleicons.org/googledrive/FFFF" width="24" height="24" style="vertical-align: middle;" />**
@@ -117,13 +105,9 @@ Pulse este botón:
 
 ---
 
----
-
 ## D- Principio de funcionamiento :gear:
 
 *(Para ayudar a comprender el código)*
-
----
 
 ---
 
@@ -140,8 +124,6 @@ Pulse este botón:
 >*Anécdota* : la versión *MIT App Inventor* no dispone de las funciones necesarias para descifrar el contenido del código QR. Tuve que escribir el algoritmo en JavaScript para integrarlo en una página web utilizada por el módulo **Web** de *MIT App Inventor*.  
 ¡Qué rodeo! :grimacing:   
 ⟶ Otra razón más para migrar a Kotlin <img src="https://cdn.simpleicons.org/kotlin/FFFF" width="24" height="24" style="vertical-align: middle;" />.
-
----
 
 ---
 
@@ -194,8 +176,6 @@ Si un(a) especialista en uno de estos idiomas está interesado(a), ¡será bienv
 
 ---
 
----
-
 ## F- Participe en el proyecto MAEL :open_hands:
 
 :ring_buoy: Para **obtener ayuda** sobre el uso de MAEL o para **participar en el desarrollo** :computer:, escríbame aquí:
@@ -212,8 +192,6 @@ Si un(a) especialista en uno de estos idiomas está interesado(a), ¡será bienv
 | [<img src="https://github.com/Nail-yk.png" width="50" style="border-radius: 50%;">](https://github.com/Nail-yk) | Padawan         | [@Nail-yk](https://github.com/Nail-yk) | Traducción de la documentación |
 | ... | ... | ... | Desarrollador |
 | ... | ... | ... | Desarrolladora |
-
----
 
 ---
 
